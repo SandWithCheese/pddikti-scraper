@@ -7,12 +7,18 @@ This is a Python script that utilizes Selenium and Pandas libraries to scrape da
 + Pandas library
 
 ## Installation
-```pip install selenium```
-```pip install pandas```
+```sh
+pip install selenium
+```
+```sh
+pip install pandas
+```
 
 ## Usage
 1. Run the script using the following command:
-```python scraper.py```
+```sh
+python scraper.py
+```
 2. Enter the requested information when prompted:
     + Kode Fakultas Atau Jurusan: Enter the code for the desired faculty or department.
     + Angkatan: Enter the academic year.
