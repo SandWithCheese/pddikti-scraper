@@ -14,11 +14,11 @@ This is a Python script that utilizes Selenium and Pandas libraries to scrape da
 1. Run the script using the following command:
 ```python scraper.py```
 2. Enter the requested information when prompted:
-    1. Kode Fakultas Atau Jurusan: Enter the code for the desired faculty or department.
-    2. Angkatan: Enter the academic year.
-    3. NIM Awal Pencarian: Enter the starting NIM for the search.
-    4. Nama Folder (Format fakultas_22 atau jurusan_21): Enter the name of the folder where the data will be saved. Use the format "fakultas_22" or "jurusan_21".
-    5. Part (Format 'part2' atau kosongkan): Enter the part number for the data if applicable, otherwise leave it blank.
+    + Kode Fakultas Atau Jurusan: Enter the code for the desired faculty or department.
+    + Angkatan: Enter the academic year.
+    + NIM Awal Pencarian: Enter the starting NIM for the search.
+    + Nama Folder (Format fakultas_22 atau jurusan_21): Enter the name of the folder where the data will be saved. Use the format "fakultas_22" or "jurusan_21".
+    + Part (Format 'part2' atau kosongkan): Enter the part number for the data if applicable, otherwise leave it blank.
 3. The script will start scraping the data from the website, and the progress will be displayed on the console. The scraped data will be saved in a CSV file named according to the provided information.
 
 ## Output
