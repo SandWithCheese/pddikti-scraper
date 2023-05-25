@@ -1,5 +1,5 @@
 # pddikti-scraper
-This is a Python script that utilizes Selenium and Pandas libraries to scrape data from the website https://pddikti.kemdikbud.go.id. The script retrieves student information based on a given starting NIM (Nomor Induk Mahasiswa) and a specific faculty or department code.
+This is a Python script that utilizes Selenium and Pandas libraries to scrape data from the website https://pddikti.kemdikbud.go.id. The script retrieves ITB student information based on a given starting NIM (Nomor Induk Mahasiswa) and a specific faculty or department code.
 
 ## Prerequisites
 + Python 3.x
